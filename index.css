@@ -1,0 +1,43 @@
+body {
+  background-image: url("photos/wp10496044-the-batman-2022-pc-wallpapers.jpg");
+  background-size: cover;
+}
+
+p {
+  color: white;
+  font-family: Carlito;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.ilk-satir{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.favoriler{
+  width: 300px;
+  margin-top: 40px;
+  margin-left: 1%;
+  display: inline-block;
+}
+
+.fuze-resim{
+  margin-top: 10px;
+  object-fit: contain;
+  height: 300px;
+  display: inline-block;
+}
+
+.ortaya-al{
+  margin-top: 20px;
+  margin-left: 500px;
+}
+
+.linkler{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
